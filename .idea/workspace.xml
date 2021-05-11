@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71e13aea-7693-41d2-9a71-24fd83f4ccbf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PjqR6aK4piof5gDqDA1uolaM19" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/amqp-client-5.7.3.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\Alura\JMS-ActiveMQ\jms\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.caelum.jms.rabbitmq.consumer.pessoa.telefone" />
+      <recent name="br.com.caelum.jms.rabbitmq.consumer.pessoa.endereco" />
+      <recent name="br.com.caelum.jms.rabbitmq.consumer" />
+      <recent name="br.com.caelum.jms.topics.pessoa.telefone" />
+      <recent name="br.com.caelum.jms.topics.pessoa.endereco" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\Alura\JMS-ActiveMQ\jms\src\br\com\caelum\jms\log" />
+      <recent name="C:\work\Alura\JMS-ActiveMQ\jms\src\br\com\caelum\jms" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TesteConsumidorTopicoTelefoneRB">
+    <configuration name="TesteConsumidorTopicoEmailRB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.jms.rabbitmq.consumer.pessoa.email.TesteConsumidorTopicoEmailRB" />
+      <module name="jms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.jms.rabbitmq.consumer.pessoa.email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteConsumidorTopicoEnderecoAIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.jms.rabbitmq.consumer.pessoa.endereco.TesteConsumidorTopicoEnderecoAIS" />
+      <module name="jms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.jms.rabbitmq.consumer.pessoa.endereco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteConsumidorTopicoEnderecoRB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.jms.rabbitmq.consumer.pessoa.endereco.TesteConsumidorTopicoEnderecoRB" />
+      <module name="jms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.jms.rabbitmq.consumer.pessoa.endereco.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteConsumidorTopicoTelefoneAIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.jms.rabbitmq.consumer.pessoa.telefone.TesteConsumidorTopicoTelefoneAIS" />
+      <module name="jms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.jms.rabbitmq.consumer.pessoa.telefone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteConsumidorTopicoTelefoneRB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.jms.rabbitmq.consumer.pessoa.telefone.TesteConsumidorTopicoTelefoneRB" />
+      <module name="jms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.caelum.jms.rabbitmq.consumer.pessoa.telefone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteConsumidorTopicoTelefoneRB" />
+        <item itemvalue="Application.TesteConsumidorTopicoTelefoneAIS" />
+        <item itemvalue="Application.TesteConsumidorTopicoEnderecoRB" />
+        <item itemvalue="Application.TesteConsumidorTopicoEnderecoAIS" />
+        <item itemvalue="Application.TesteConsumidorTopicoEmailRB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71e13aea-7693-41d2-9a71-24fd83f4ccbf" name="Default Changelist" comment="" />
+      <created>1566397841478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566397841478</updated>
+      <workItem from="1566397850429" duration="10326000" />
+      <workItem from="1566475101927" duration="498000" />
+      <workItem from="1566475799927" duration="5463000" />
+      <workItem from="1566563639650" duration="780000" />
+      <workItem from="1566569228957" duration="2328000" />
+      <workItem from="1566925800300" duration="3637000" />
+      <workItem from="1566993545173" duration="6450000" />
+      <workItem from="1567515882664" duration="3560000" />
+      <workItem from="1567598222790" duration="6056000" />
+      <workItem from="1567779485311" duration="366000" />
+      <workItem from="1567789758840" duration="2116000" />
+      <workItem from="1568031309670" duration="75000" />
+      <workItem from="1568031650307" duration="2366000" />
+      <workItem from="1568123569917" duration="9407000" />
+      <workItem from="1568294425130" duration="4654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

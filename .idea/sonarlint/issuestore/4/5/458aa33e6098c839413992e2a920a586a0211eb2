@@ -1,0 +1,7 @@
+
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¸†²øÿÿÿÿÿ8ŸÁâÑ-
+\squid:S4719#"9Replace charset name argument with StandardCharsets.UTF_8(Ùˆ¬€ÿÿÿÿÿ8ŸÁâÑ-
+Fsquid:S1148'"#Use a logger to log this exception.(îÙ÷Çùÿÿÿÿ8“ïòàÑ-
+fsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(´ĞŸã8“ïòàÑ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦Œóìùÿÿÿÿ8±µ¤âÑ-

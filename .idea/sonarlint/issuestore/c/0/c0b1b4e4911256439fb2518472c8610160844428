@@ -1,0 +1,10 @@
+
+Fsquid:S11483"#Use a logger to log this exception.(îÙ÷Çùÿÿÿÿ8áûº²Ñ-
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¯Ş—âÑ-
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(æĞ8ìƒâÑ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦Œóìùÿÿÿÿ8ˆí¦âÑ-
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(×™Ûó8ìƒâÑ-
+\squid:S4719)"9Replace charset name argument with StandardCharsets.UTF_8(åıÙÆûÿÿÿÿ8ìƒâÑ-
+fsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(´ĞŸã8£å½²Ñ-

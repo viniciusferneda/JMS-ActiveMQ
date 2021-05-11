@@ -1,0 +1,9 @@
+
+fsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(´ĞŸã8Í’•®Ò-
+\squid:S4719&"9Replace charset name argument with StandardCharsets.UTF_8(åıÙÆûÿÿÿÿ8Í’•®Ò-
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Í’•®Ò-
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(×™Ûó8Í’•®Ò-
+Fsquid:S11480"#Use a logger to log this exception.(îÙ÷Çùÿÿÿÿ8Í’•®Ò-
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(æĞ8Í’•®Ò-
